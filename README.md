@@ -58,7 +58,13 @@ An Excel dashboard was developed to analyse changes in disposable income over ti
 ---
 
 ## Dashboard Preview
-*(Add a screenshot of your dashboard here)*
+
+<img width="3090" height="910" alt="image" src="https://github.com/user-attachments/assets/61ad923e-0433-4d68-9c5e-6b27f65b9a84" />
+<img width="3093" height="900" alt="image" src="https://github.com/user-attachments/assets/2f9d2c0d-325c-4b1f-8a9e-64737b57241d" />
+<img width="3091" height="1297" alt="image" src="https://github.com/user-attachments/assets/798d81fd-671b-481c-bc88-c4a1a326117f" />
+<img width="3092" height="1166" alt="image" src="https://github.com/user-attachments/assets/7b96dfbc-a8a6-43cc-9469-25feaaa75fef" />
+<img width="3100" height="1145" alt="image" src="https://github.com/user-attachments/assets/8588b6b0-1235-4e2d-b3b9-21d660e34954" />
+<img width="3098" height="1226" alt="image" src="https://github.com/user-attachments/assets/0e59a5f9-3818-4367-b6e3-fa3e9de0a1d4" />
 
 ---
 
